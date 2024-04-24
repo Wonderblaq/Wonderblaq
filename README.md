@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wonderblaq
-- 👀 I’m interested in ... computer engineering
+- 👀 I’m reading my ... Bsc in computer engineering at the university
 - 🌱 I’m currently learning ... Python and Linux
 - 💞️ I’m looking to collaborate on ...how to become a great electronics engineer and programmer
 - 📫 How to reach me ...through X @wonder_blackk
