@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wonderblaq
+- 👋 Hi, I’m @WSarfoWonder
 - 👀 I’m reading my ... Bsc in computer engineering at the university
 - 🌱 I’m currently learning ... Python and Flutter with Darts
 - 💞️ I’m looking to collaborate on ...how to become a great electronics engineer and programmer
